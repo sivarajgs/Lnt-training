@@ -11,4 +11,8 @@ public void div(int num1,int num2){
 	System.out.println("div="+(num1/num2));
 }
 
+public void mul(int num1,int num2){
+	System.out.println("mul="+(num1*num2));
+}
+
 }
